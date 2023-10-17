@@ -4,5 +4,5 @@
 [SPIKE App - Launch Web App](https://education.lego.com/en-us/downloads/spike-app/software/)  
 
 # 10.10.2023
-![FLL Masterpiece](images/231010_fllmasterpiece.jpg =420x)  
+![FLL Masterpiece](images/231010_fllmasterpiece.jpg =420x251)  
 [FLL Masterpiece - Mission Model Building Instructions](https://www.firstlegoleague.org/season)
